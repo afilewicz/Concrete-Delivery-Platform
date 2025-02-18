@@ -1,23 +1,13 @@
 
 # PZSP2-Betoniarze-Kurierzy
 
-  
-  
 
-## Mentor zespołu: dr hab. Wojciech Mazurczyk
-
-  
-
-## Właściciel tematu: dr inż. Tomasz Śliwiński
-
-  
-  
 
 ### Cel projektu
 
 Celem naszego projektu jest stworzenie aplikacji, która będzie zarządzała pracą firmy kurierskiej specjalizującej się w przewozie kompaktowych paczek, na ograniczonym obszarze. Nasz system umożliwi zgłaszanie przesyłek oraz będzie je optymalnie przydzielał pomiędzy dostępnych kurierów, żeby jak najbardziej minimalizować koszty transportu.
 
-  
+
 
 ### Wstępna wizja projektu
 
